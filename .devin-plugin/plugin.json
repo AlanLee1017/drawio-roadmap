@@ -1,0 +1,7 @@
+{
+  "name": "drawio-roadmap",
+  "version": "1.0.0",
+  "description": "黑白学术风格技术路线/逻辑框架/研究框架图生成：Draw.io XML 源 + PNG/SVG 导出 + docx 嵌入验证，含三套成熟图式模板",
+  "keywords": ["drawio", "diagram", "roadmap", "技术路线图", "academic", "docx"],
+  "license": "MIT"
+}
